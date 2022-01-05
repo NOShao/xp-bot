@@ -9,7 +9,7 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_
 
 
 
-Levels.setURL("mongodb+srv://tank:XM3fCHbZ37hIozhk@cluster0.ahy5f.mongodb.net/myFirstDatabase?retryWrites=true&w=majority");
+Levels.setURL("Use Your Own");
 
 
 
